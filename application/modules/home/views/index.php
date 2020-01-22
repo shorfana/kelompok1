@@ -43,7 +43,7 @@
             </nav>
           </div>
           <div class="col lg-4 no-margin-bottom flexh-justify-end no-padding-right hidden-xs test">
-            <a href="contact.html" class="button-primary is-small order-last w-inline-block">
+            <a href="<?php echo "http://localhost/perpustakaan/login" ?>" class="button-primary is-small order-last w-inline-block">
               <div class="button-primary-text">Login</div>
             </a>
           </div>
@@ -57,8 +57,7 @@
   <div class="section is-hero hero-hosting overflow-hidden position-relative">
     <div class="container position-relative">
       <div data-w-id="41174ade-f098-d525-84e7-186e4fb18c7e" style="opacity:0;-webkit-transform:translate3d(0, 50PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 50PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 50PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 50PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);filter:blur(10px)" class="col lg-5 md-12">
-        <h1>The Developer’s Cloud Simplified</h1>
-        <div class="margin-bottom is-heading-color">A managed hosting platform that facilitates choice, simplicity, and performance. All this is backed by caring expert support so that you stay focused on what you do best, win as an individual and succeed as a business.</div>
+        <h1>Cloud Computing Library</h1>
         <a data-w-id="6e550107-0405-598d-4176-9d9f46c2e6da" href="#" class="button-primary animated w-inline-block">
           <div class="button-primary-text">get started free</div>
           <div class="button-primary-text for-hover">let&#x27;s go <span class="fa margin-left"></span></div>
@@ -84,13 +83,13 @@
   <div id="features" class="section has-bg-accent">
     <div class="container flexh-align-center margin-bottom-double">
       <div class="col lg-5 alignself-center md-12">
-        <div class="pre-title">Solutions For Every Business</div>
-        <h2 class="margin-bottom-double">Infrastructure for any vertical businessess</h2>
+        <div class="pre-title">Solusi untuk perpustakaan online anda</div>
+        <h2 class="margin-bottom-double">Perpustakaan online dengan manajemennya</h2>
         <ul class="c-checklist">
-          <li class="c-checklist_item margin-bottom"><strong class="is-heading-color">Run Without Surprises</strong><br>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</li>
-          <li class="c-checklist_item margin-bottom"><strong class="is-heading-color">Perfect for CI/CD and Build Jobs</strong><br>Maecenas faucibus mollis interdum vestibulum id ligula porta felis euismod semper.</li>
-          <li class="c-checklist_item margin-bottom"><strong class="is-heading-color">Predictable Performance</strong><br>Maecenas sed diam eget risus varius blandit sit amet non magna. Vivamus sagittis lacus vel augue laoreet </li>
-        </ul><a href="#" class="cta-link margin-left-32px"><span class="margin-right">View more features</span> <span class="fa c-cta1_arrow-hovered"></span> <span class="fa c-cta1__arrow-normal"></span></a></div>
+          <li class="c-checklist_item margin-bottom"><strong class="is-heading-color">Lebih Cepat</strong><br>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</li>
+          <li class="c-checklist_item margin-bottom"><strong class="is-heading-color">Data Aman</strong><br>Maecenas faucibus mollis interdum vestibulum id ligula porta felis euismod semper.</li>
+          <li class="c-checklist_item margin-bottom"><strong class="is-heading-color">Mudah Diakses</strong><br>Maecenas sed diam eget risus varius blandit sit amet non magna. Vivamus sagittis lacus vel augue laoreet </li>
+        </ul><a href="#" class="cta-link margin-left-32px"></a></div>
       <div class="col lg-1 no-margin-bottom"></div>
       <div class="col lg-6 md-12 order-first"><img src="https://via.placeholder.com/1000x600.png?text=IMAGE 800w" sizes="(max-width: 479px) 90vw, (max-width: 851px) 94vw, (max-width: 991px) 800px, 45vw" alt=""></div>
     </div>

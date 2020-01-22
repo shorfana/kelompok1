@@ -601,6 +601,7 @@ ERROR - 2020-01-22 16:28:21 --> 404 Page Not Found: /index
 ERROR - 2020-01-22 16:29:18 --> 404 Page Not Found: /index
 ERROR - 2020-01-22 16:29:30 --> 404 Page Not Found: /index
 ERROR - 2020-01-22 16:29:41 --> 404 Page Not Found: /index
+<<<<<<< Updated upstream
 ERROR - 2020-01-22 20:09:12 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'Ouvsm4DoDu'@'36.71.232.82' (using password: YES) D:\wamp64\www\kelompok1\system\database\drivers\mysqli\mysqli_driver.php 201
 ERROR - 2020-01-22 20:09:12 --> Unable to connect to the database
 ERROR - 2020-01-22 20:09:38 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'Ouvsm4DoDu'@'36.71.232.82' (using password: YES) D:\wamp64\www\kelompok1\system\database\drivers\mysqli\mysqli_driver.php 201
@@ -667,3 +668,45 @@ ERROR - 2020-01-22 20:30:58 --> 404 Page Not Found: /index
 ERROR - 2020-01-22 20:30:58 --> 404 Page Not Found: /index
 ERROR - 2020-01-22 20:31:01 --> 404 Page Not Found: /index
 ERROR - 2020-01-22 20:31:01 --> 404 Page Not Found: /index
+=======
+ERROR - 2020-01-22 19:49:38 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 19:50:05 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 19:50:05 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 19:50:54 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 19:50:56 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 19:50:56 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 19:51:03 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 19:51:06 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 19:51:06 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 19:54:40 --> Severity: error --> Exception: syntax error, unexpected ':', expecting ',' or ';' C:\xampp\htdocs\kelompok1\application\modules\home\views\index.php 46
+ERROR - 2020-01-22 19:55:01 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 19:55:01 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 19:55:13 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 19:55:13 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 19:56:17 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 19:56:17 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 19:56:42 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 19:56:42 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:00:18 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:00:18 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:00:46 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:00:46 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:00:55 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:00:55 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:02:01 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:02:01 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:02:31 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:02:31 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:02:45 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:02:45 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:02:56 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:02:56 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:03:07 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:03:07 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:03:25 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:03:25 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:03:26 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 20:03:26 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 23:31:42 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 23:31:42 --> 404 Page Not Found: /index
+>>>>>>> Stashed changes
