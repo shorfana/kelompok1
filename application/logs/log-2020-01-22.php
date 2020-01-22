@@ -371,3 +371,16 @@ ERROR - 2020-01-22 13:26:45 --> 404 Page Not Found: /index
 ERROR - 2020-01-22 13:26:45 --> 404 Page Not Found: /index
 ERROR - 2020-01-22 13:26:50 --> 404 Page Not Found: /index
 ERROR - 2020-01-22 13:26:50 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 14:23:18 --> 404 Page Not Found: ../modules/home/controllers/Home/images
+ERROR - 2020-01-22 14:23:18 --> 404 Page Not Found: ../modules/home/controllers/Home/contact.html
+ERROR - 2020-01-22 14:23:18 --> 404 Page Not Found: ../modules/home/controllers/Home/images
+ERROR - 2020-01-22 14:23:20 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 14:23:21 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 14:23:35 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 14:23:35 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 14:24:04 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 14:24:04 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 14:24:09 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 14:24:09 --> 404 Page Not Found: /index
+ERROR - 2020-01-22 14:29:51 --> Severity: error --> Exception: Unable to locate the model you have specified: Dbs D:\wamp64\www\kelompok1\system\core\Loader.php 344
+ERROR - 2020-01-22 14:30:04 --> 404 Page Not Found: /index
