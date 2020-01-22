@@ -1,5 +1,14 @@
 <!DOCTYPE html>
 <!--  Last Published: Mon Oct 28 2019 04:59:45 GMT+0000 (UTC)  -->
+
+<style type="text/css">
+.section.is-hero.img1 {
+  background-image: url(<?php echo base_url();?>home/1.jpg);
+  background-position: 50% 70%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+</style>
 <html data-wf-page="" data-wf-site="">
 <head>
   <meta charset="utf-8">

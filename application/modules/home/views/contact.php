@@ -56,37 +56,27 @@
       </div>
     </div>
   </header>
-  <div class="section is-hero img1 on-dark is-subpage bgpos4">
-    <div class="container">
-      <div data-w-id="41174ade-f098-d525-84e7-186e4fb18c7e" class="col block-centered text-align-center lg-7 md-12">
-        <h1 class="on-dark">Need help and support?</h1>
-        <div class="padding-left padding-right margin-bottom">Nullam id dolor id nibh ultricies vehicula ut id elit</div>
-      </div>
-    </div>
-  </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
   <div class="section">
     <div class="container">
       <div class="col lg-6 md-12">
-        <h2>👋   Hello let&#x27;s get in touch</h2>
-        <p class="text-medium low-text-contrast">Dont be shy, Just tell us about yourself and we’ll figure out the best option for you and your project. Dont like Filling up forms ? Mail us then <a href="mailto:hello@superly.com">hello@superly.com</a></p>
-        <div class="w-form">
-          <form id="email-form" name="email-form" data-name="Email Form"><input type="text" class="form-input-text style1 w-input" maxlength="256" name="name" data-name="Name" placeholder="Name" id="name"><input type="email" class="form-input-text style1 w-input" maxlength="256" name="email" data-name="Email" placeholder="Email" id="email" required=""><input type="tel" class="form-input-text style1 w-input" maxlength="256" name="Phone" data-name="Phone" placeholder="Phone" id="Phone" required=""><textarea placeholder="Your Message" maxlength="5000" id="Message" name="Message" data-name="Message" required="" class="form-input-text textarea style1 w-input"></textarea><input type="submit" value="Submit" data-wait="Please wait..." class="button-primary margin-top w-button"></form>
-          <div class="w-form-done">
-            <div>Thank you! Your submission has been received!</div>
-          </div>
-          <div class="w-form-fail">
-            <div>Oops! Something went wrong while submitting the form.</div>
-          </div>
-        </div>
+        <h2>👋 Hallo&#x27;s Tanyakan disini</h2>
+        <p class="text-medium low-text-contrast">Jika ada yang ingin di Tanyakan Silahkan kontak alamat email ini <a href="mailto:kel1@cloudperpus.com">kel1@cloudperpus.com</a></p>
       </div>
       <div class="col lg-2 no-margin-bottom"></div>
       <div class="col lg-4 md-12">
         <div class="container container-nested">
-          <div class="col lg-2 no-padding-right"><img src="https://via.placeholder.com/1000x600.png?text=IMAGE" width="64" alt="" class="margin-top-negative"></div>
           <div class="col lg-10">
-            <div class="size-h4 margin-bottom">Contact Information</div>
-            <div class="margin-bottom">Semanding Ceria Gg. Buntu 77<br>Pare, Kedintun 9876<br>East Java — Indonesia Raya</div>
-            <div class="margin-bottom-double">Call Us: +623 456 789 10<br>We are open from Monday to Friday<br>09.00am — 05.00pm</div>
+            <div class="size-h4 margin-bottom">Informasi Kontak</div>
+            <div class="margin-bottom">STubagus ismail bawah<br>coblong , bandung <br>East Java — Indonesia Raya</div>
+            <div class="margin-bottom-double">No : 02192928484 <br>Buka setiap senin - jumat<br>09.00 pagi — 05.00 Sore</div>
             <div class="size-h4 margin-bottom">Follow Us</div>
             <div class="flexh-space-between low-text-contrast">
               <div class="fa-brand margin-right-small"><a href="#"></a></div>
