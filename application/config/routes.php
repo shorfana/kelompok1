@@ -53,3 +53,6 @@ $route['default_controller'] = 'front';
 $route['movies']='front/movies';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
+$route['home']='home/index';
+$route['harga']='home/harga';
+$route['contact']='home/contact';
