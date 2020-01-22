@@ -56,3 +56,5 @@ $route['translate_uri_dashes'] = FALSE;
 $route['home']='home/index';
 $route['harga']='home/harga';
 $route['contact']='home/contact';
+$route['register']='login/register';
+$route['registertrial']='login/registertrial';

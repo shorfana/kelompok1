@@ -23,10 +23,19 @@ public function index()
 
   }
 }
-//
-// public function register(){
-// $this->load->view('regis');
-// }
+
+
+public function register(){
+
+$this->load->view('register');
+
+}
+
+public function registertrial(){
+
+$this->load->view('registertrial');
+
+}
 //
 // public function logout(){
 // $this->session->sess_destroy();
