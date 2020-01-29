@@ -31,6 +31,9 @@ $this->load->view('register');
 
 }
 
+
+
+
 public function registertrial(){
 
 $this->load->view('registertrial');
