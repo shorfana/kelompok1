@@ -15,7 +15,7 @@
                 </div>
                 <div class="text-center">
                   <h1 class="mb-2 text-white">Halo Admin!,</h1>
-                  <p class="m-auto w-75">Ini adalah contoh dari <strong>dashboard</strong> kostlab. <br>Silahkan ubah di view yaa.</p>
+                  <p class="m-auto w-75">Ini adalah contoh dari <strong>dashboard</strong> Cloud 1. <br>Silahkan ubah di view yaa.</p>
                 </div>
               </div>
             </div>
