@@ -66,39 +66,39 @@
   <div class="section is-hero img1 is-subpage">
     <div class="container">
       <div class="col block-centered text-align-center lg-7 md-12">
-        <h1>Simple and transparent pricing</h1>
-        <div class="padding-left padding-right margin-bottom">Start your free trial, no credit card required</div>
+        <h1>Layanan Hemat dan Berkualitas</h1>
+        <div class="padding-left padding-right margin-bottom">Ayo, mulai dengan gratis</div>
       </div>
     </div>
   </div>
   <div class="section">
     <div class="container">
       <div class="col block-centered text-align-center lg-6 md-12">
-        <h2>Build the right plan for your organization and team</h2>
-        <div class="text-medium low-text-contrast margin-bottom">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet </div>
+        <h2>Bangun perpustakaan anda menjadi lebih cepat dan aman</h2>
+        <div class="text-medium low-text-contrast margin-bottom">Cloudperpus akan memberikan pengalaman kepada anda dan user anda, pengalaman menggunakan cloud perpus sehingga nyaman dan cepat </div>
       </div>
     </div>
     <div class="container">
       <div class="col lg-12 overflow-scroll">
         <div class="w-layout-grid grid-pricing-1">
-          <div id="w-node-28c5f4c5125e-3dcce533" class="size-h3 create-grid-space first-grid-column">Package</div>
-          <div class="create-grid-space first-grid-column size-h4 flexv-justify-end">Pricing</div>
-          <div class="size-h4 create-grid-space first-grid-column">Hosting</div>
-          <div class="size-h4 create-grid-space first-grid-column">Connect of domain</div>
-          <div class="size-h4 create-grid-space first-grid-column">SSL sertificate</div>
-          <div class="size-h4 create-grid-space first-grid-column">Monthly visit</div>
+          <div id="w-node-28c5f4c5125e-3dcce533" class="size-h3 create-grid-space first-grid-column">paket</div>
+          <div class="create-grid-space first-grid-column size-h4 flexv-justify-end">Harga</div>
+          <div class="size-h4 create-grid-space first-grid-column">Kelola pustaka</div>
+          <div class="size-h4 create-grid-space first-grid-column">Data anggota</div>
+          <div class="size-h4 create-grid-space first-grid-column">Transaksi Sirkulasi</div>
+          <div class="size-h4 create-grid-space first-grid-column">Buku tamu</div>
           <div class="create-grid-space first-grid-column">
-            <div class="size-h4 margin-bottom-small">Form Submission</div>
-            <div class="low-text-contrast">Nulla vitae elit libero, a pharetra augue. Sed posuere consectetur est at lobortis. </div>
+            <div class="size-h4 margin-bottom-small">Waktu</div>
+            <div class="low-text-contrast"></div>
           </div>
-          <div class="size-h4 create-grid-space first-grid-column">Email marketing</div>
-          <div class="size-h4 create-grid-space first-grid-column">Auto server deployment</div>
+          <div class="size-h4 create-grid-space first-grid-column">Data Buku</div>
+          <div class="size-h4 create-grid-space first-grid-column"></div>
           <div></div>
-          <div class="size-h3 create-grid-space">Starter</div>
+          <div class="size-h3 create-grid-space">gratis</div>
           <div class="c-pricing__description create-grid-space">
-            <div class="c-pricing__price">$27 <span class="font-size-normal">/ Month</span></div>
-            <div class="text-small low-text-contrast margin-bottom-small">Per month billed annualy, or $15 billed monthly, or $20 billed weekly</div>
-            <div class="weight-is-medium">Best for higher traffic marketing sites, longreads and blogs</div>
+            <div class="c-pricing__price">Rp 0 <span class="font-size-normal">/ 3 bulan</span></div>
+            <div class="text-small low-text-contrast margin-bottom-small">Nikmati layanan trial dengan masa waktu 3 bulan  </div>
+            <div class="weight-is-medium">layanan terbaik dengan opsi perpanjangan</div>
           </div>
           <div class="create-grid-space">
             <div class="iconfont is-brand-color is-24px"><em class="iconfont__no-italize"></em></div>
@@ -109,47 +109,22 @@
           <div class="create-grid-space">
             <div class="iconfont is-brand-color is-24px"><em class="iconfont__no-italize"></em></div>
           </div>
-          <div class="weight-is-medium create-grid-space">25,000</div>
-          <div class="weight-is-medium create-grid-space">700</div>
-          <div class="create-grid-space"></div>
-          <div class="create-grid-space"></div>
-          <div class="padding">
-            <a href="#" class="button-primary w100 w-inline-block">
-              <div class="button-primary-text">try it free</div>
-            </a>
-          </div>
-          <div class="size-h3 create-grid-space">Cloud compute</div>
-          <div class="c-pricing__description create-grid-space">
-            <div class="c-pricing__price">$34 <span class="font-size-normal">/ Month</span></div>
-            <div class="text-small low-text-contrast margin-bottom-small">Per month billed annualy, or $24 billed monthly, or $40 billed weekly</div>
-            <div class="weight-is-medium">Best for higher traffic marketing sites, longreads and blogs</div>
-          </div>
           <div class="create-grid-space">
             <div class="iconfont is-brand-color is-24px"><em class="iconfont__no-italize"></em></div>
           </div>
-          <div class="create-grid-space">
-            <div class="iconfont is-brand-color is-24px"><em class="iconfont__no-italize"></em></div>
-          </div>
-          <div class="create-grid-space">
-            <div class="iconfont is-brand-color is-24px"><em class="iconfont__no-italize"></em></div>
-          </div>
-          <div class="weight-is-medium create-grid-space">85,000</div>
-          <div class="create-grid-space">
-            <div class="weight-is-medium">500</div>
-            <div class="low-text-contrast">Donec ullamcorper nulla non metus auctor fringilla.</div>
-          </div>
-          <div class="weight-is-medium create-grid-space">1,000</div>
+          <div class="weight-is-medium create-grid-space">3 Bulan</div>
+          <div class="create-grid-space">100 buku</div>
           <div class="create-grid-space"></div>
           <div class="padding">
-            <a href="#" class="button-primary w100 w-inline-block">
-              <div class="button-primary-text">try it free</div>
+            <a href="<?php base_url() ?>registertrial" class="button-primary w100 w-inline-block">
+              <div class="button-primary-text">Coba gratis</div>
             </a>
           </div>
-          <div class="size-h3 create-grid-space">Dedicate cloud</div>
+          <div class="size-h3 create-grid-space">Premium</div>
           <div class="c-pricing__description create-grid-space">
-            <div class="c-pricing__price">$49 <span class="font-size-normal">/ Month</span></div>
-            <div class="text-small low-text-contrast margin-bottom-small">Per month billed annualy, or $40 billed monthly, or $60 billed weekly</div>
-            <div class="weight-is-medium">Best for higher traffic marketing sites, longreads and blogs</div>
+            <div class="c-pricing__price">Rp.300.000 <span class="font-size-normal">/ 1 tahun</span></div>
+            <div class="text-small low-text-contrast margin-bottom-small">Layanan dengan waktu satu tahun lebih murah </div>
+            <div class="weight-is-medium">Dibayar satu tahun sekali dengan  perpanjangan</div>
           </div>
           <div class="create-grid-space">
             <div class="iconfont is-brand-color is-24px"><em class="iconfont__no-italize"></em></div>
@@ -160,20 +135,44 @@
           <div class="create-grid-space">
             <div class="iconfont is-brand-color is-24px"><em class="iconfont__no-italize"></em></div>
           </div>
-          <div class="weight-is-medium create-grid-space">100,000</div>
-          <div class="create-grid-space">
-            <div class="weight-is-medium">1000</div>
-            <div class="low-text-contrast">Donec ullamcorper nulla non metus auctor fringilla.</div>
-          </div>
-          <div class="weight-is-medium create-grid-space">10,000</div>
           <div class="create-grid-space">
             <div class="iconfont is-brand-color is-24px"><em class="iconfont__no-italize"></em></div>
+          </div>            <div class="create-grid-space">
+            <div class="weight-is-medium">1 Tahun</div>
+            <div class="low-text-contrast"></div>
           </div>
+          <div class="weight-is-medium create-grid-space">Unlimited</div>
+          <div class="create-grid-space"></div>
           <div class="padding">
-            <a href="#" class="button-primary w100 w-inline-block">
-              <div class="button-primary-text">try it free</div>
+            <a href="<?php base_url() ?>registertrial" class="button-primary w100 w-inline-block">
+              <div class="button-primary-text">Ayo Mulai</div>
             </a>
           </div>
+          <div class="size-h3 create-grid-space"></div>
+          <div class="c-pricing__description create-grid-space">
+            <div class="c-pricing__price"> <span class="font-size-normal"></span></div>
+            <div class="text-small low-text-contrast margin-bottom-small"></div>
+            <div class="weight-is-medium"></div>
+          </div>
+          <div class="create-grid-space">
+            <div class="iconfont is-brand-color is-24px"><em class="iconfont__no-italize"></em></div>
+          </div>
+          <div class="create-grid-space">
+            <div class="iconfont is-brand-color is-24px"><em class="iconfont__no-italize"></em></div>
+          </div>
+          <div class="create-grid-space">
+            <div class="iconfont is-brand-color is-24px"><em class="iconfont__no-italize"></em></div>
+          </div>
+          <div class="weight-is-medium create-grid-space"></div>
+          <div class="create-grid-space">
+            <div class="weight-is-medium"></div>
+            <div class="low-text-contrast"></div>
+          </div>
+          <div class="weight-is-medium create-grid-space"></div>
+          <div class="create-grid-space">
+            <div class="iconfont is-brand-color is-24px"><em class="iconfont__no-italize"></em></div>
+          </div>
+
         </div>
       </div>
     </div>

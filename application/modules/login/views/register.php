@@ -94,7 +94,7 @@
                                         <label for="user-password">Password</label>
                                     </fieldset>
                                     <fieldset class="form-label-group form-group position-relative has-icon-left">
-                                        <input type="text" class="form-control" id="user-name" name="payment" placeholder="Bukti Pembayaran" required>
+                                        <input type="file" class="form-control" id="user-name" name="payment" placeholder="Bukti Pembayaran" required>
                                         <div class="form-control-position">
                                             <i class="feather icon-user"></i>
                                         </div>
