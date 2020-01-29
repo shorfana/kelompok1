@@ -36,7 +36,6 @@
           <div class="col lg-4 no-margin-bottom order-first no-padding-left col-logo xs-12 md-grow"><a href="index.html" class="brand on-dark w-nav-brand w--current"><img src="images/-asset-peyton-dark.svg" alt=""></a></div>
           <div class="col lg-4 no-margin-bottom position-absolute-md flexh-justify-center">
             <nav role="navigation" class="nav-menu w-nav-menu"><a href="<?php echo base_url();?>home" class="nav-link w-nav-link w--current">Home</a>
-              <a href="<?php echo base_url();?>harga" class="nav-link w-nav-link">Pricing</a>
 
               <a href="<?php echo base_url();?>contact" class="nav-link w-nav-link">Contact</a>
 
