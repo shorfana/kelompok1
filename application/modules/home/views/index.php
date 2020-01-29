@@ -57,7 +57,7 @@
   <div class="section is-hero hero-hosting overflow-hidden position-relative">
     <div class="container position-relative">
       <div data-w-id="41174ade-f098-d525-84e7-186e4fb18c7e" style="opacity:0;-webkit-transform:translate3d(0, 50PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 50PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 50PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 50PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);filter:blur(10px)" class="col lg-5 md-12">
-        <h1>Cloud Computing Library</h1>
+        <h1>Cloud Library</h1>
         <a data-w-id="6e550107-0405-598d-4176-9d9f46c2e6da" href="#" class="button-primary animated w-inline-block">
           <div class="button-primary-text">get started free</div>
           <div class="button-primary-text for-hover">let&#x27;s go <span class="fa margin-left"></span></div>
